@@ -3,6 +3,8 @@
 
 Heavily based on the official SNMP integration, found [here](https://www.home-assistant.io/integrations/snmp/). It holds all the same options and documentation as the original, but adds support for unique_id creation on switches, as well as adding typing and discovery_info support to be more in line with homeassistant integration standards.
 
+The only notable change in usage is that the integration is held under `snmp_custom` instead of `snmp` in order to not confuse home assistant on config.
+
 ## Installation
 ### HACS Method
 Install the HACS add-on through the HASS add-on store.
