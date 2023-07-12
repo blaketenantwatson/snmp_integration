@@ -1,5 +1,5 @@
 {
-  "domain": "snmp",
+  "domain": "snmp_custom",
   "name": "SNMP",
   "codeowners": [],
   "documentation": "https://github.com/blaketenantwatson/snmp_integration",
