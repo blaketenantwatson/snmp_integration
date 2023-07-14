@@ -49,7 +49,7 @@ from homeassistant.helpers.template_entity import TemplateEntity
 from homeassistant.helpers.issue_registry import IssueSeverity, async_create_issue
 from homeassistant.helpers.template import Template
 
-from .const import (
+from homeassistant.const import (
     CONF_AUTH_KEY,
     CONF_AUTH_PROTOCOL,
     CONF_BASEOID,

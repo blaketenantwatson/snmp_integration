@@ -37,7 +37,7 @@ from homeassistant.helpers.template_entity import (
 )
 from homeassistant.helpers.typing import ConfigType, DiscoveryInfoType
 
-from .const import (
+from homeassistant.const import (
     CONF_ACCEPT_ERRORS,
     CONF_AUTH_KEY,
     CONF_AUTH_PROTOCOL,
